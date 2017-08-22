@@ -14,15 +14,6 @@ main() {
 usagemessage="Error, USAGE: $(basename "${0}") \n \
   --role|-r \n \
   --environment|-e \n \
-  --repouser|-u \n \
-  --reponame|-n \n \
-  --repoprivkeyfile|-k \n \
-  [--repotoken|-t] \n \
-  [--repobranch|-b] \n \
-  [--repodir|-d] \n \
-  [--eyamlpubkeyfile|-j] \n \
-  [--eyamlprivkeyfile|-m] \n \
-  [--gemsources|-s] \n \
   [--help|-h] \n \
   [--version|-v]"
 
